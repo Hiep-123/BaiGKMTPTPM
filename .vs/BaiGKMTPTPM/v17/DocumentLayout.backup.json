@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\BaiGKMTPTPM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BaiGKMTPTPM\\views\\partials\\navbar.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:views\\partials\\navbar.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BaiGKMTPTPM\\views\\partials\\header.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:views\\partials\\header.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -21,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BaiGKMTPTPM\\views\\partials\\slider.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:views\\partials\\slider.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BaiGKMTPTPM\\views\\partials\\navbar.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:views\\partials\\navbar.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "index.ejs",
               "DocumentMoniker": "D:\\BaiGKMTPTPM\\views\\index.ejs",
               "RelativeDocumentMoniker": "views\\index.ejs",
@@ -46,11 +46,12 @@
               "RelativeToolTip": "views\\index.ejs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-17T08:08:12.492Z"
+              "WhenOpened": "2026-03-17T08:08:12.492Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "slider.ejs",
               "DocumentMoniker": "D:\\BaiGKMTPTPM\\views\\partials\\slider.ejs",
               "RelativeDocumentMoniker": "views\\partials\\slider.ejs",
@@ -58,24 +59,25 @@
               "RelativeToolTip": "views\\partials\\slider.ejs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-17T08:08:10.405Z"
+              "WhenOpened": "2026-03-17T08:08:10.405Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "navbar.ejs",
               "DocumentMoniker": "D:\\BaiGKMTPTPM\\views\\partials\\navbar.ejs",
               "RelativeDocumentMoniker": "views\\partials\\navbar.ejs",
               "ToolTip": "D:\\BaiGKMTPTPM\\views\\partials\\navbar.ejs",
               "RelativeToolTip": "views\\partials\\navbar.ejs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-03-17T08:08:09.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "header.ejs",
               "DocumentMoniker": "D:\\BaiGKMTPTPM\\views\\partials\\header.ejs",
               "RelativeDocumentMoniker": "views\\partials\\header.ejs",
@@ -88,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "footer.ejs",
               "DocumentMoniker": "D:\\BaiGKMTPTPM\\views\\partials\\footer.ejs",
               "RelativeDocumentMoniker": "views\\partials\\footer.ejs",
@@ -96,7 +98,8 @@
               "RelativeToolTip": "views\\partials\\footer.ejs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-17T08:08:06.679Z"
+              "WhenOpened": "2026-03-17T08:08:06.679Z",
+              "EditorCaption": ""
             }
           ]
         }
