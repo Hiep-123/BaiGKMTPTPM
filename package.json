@@ -1,0 +1,25 @@
+{
+  "name": "baigkmtptpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hiep-123/BaiGKMTPTPM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hiep-123/BaiGKMTPTPM/issues"
+  },
+  "homepage": "https://github.com/Hiep-123/BaiGKMTPTPM#readme",
+  "dependencies": {
+    "ejs": "^5.0.1",
+    "express": "^5.2.1"
+  }
+}
